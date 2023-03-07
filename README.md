@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grey0514
 - 👀 I’m interested in playing the violin
-- 🌱 I’m currently learning openmv
+- 🌱 I’m currently learning matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
