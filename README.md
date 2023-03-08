@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Grey0514
+- 👋 Hi, I’m Ebenholz
 - 👀 I’m interested in playing the violin
 - 🌱 I’m currently learning matlab
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Grey0514/Grey0514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
